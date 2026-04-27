@@ -14,25 +14,25 @@ const books = [
     title: "God_Mother-Book-Case",
     publisher: "Arcipelago Itaca",
     year: "2025",
-    image: "/God-mother-Book-Case Arcipelago Itaca.jpg"
+    image: "/god-mother.jpg"
   },
   {
     title: "Nella città più fredda",
     publisher: "Tic Edizioni",
     year: "2021",
-    image: "/nella città più fredda.webp"
+    image: "/nella-citta-piu-fredda.webp"
   },
   {
     title: "Taco Bell",
     publisher: "Nino Aragno Editore",
     year: "2018",
-    image: "/taco bell.jpg"
+    image: "/taco-bell.jpg"
   },
   {
     title: "La deriva del continente",
     publisher: "Transeuropa",
     year: "2014",
-    image: "/la deriva del continente (Antology) .jpg",
+    image: "/la-deriva.jpg",
     isAnthology: true
   },
   {
@@ -45,7 +45,7 @@ const books = [
     title: "La lunga impazienza",
     publisher: "Arcipelago Itaca",
     year: "2013",
-    image: "/la lunga impazienza .webp"
+    image: "/la-lunga-impazienza.webp"
   },
   {
     title: "EX.IT",
@@ -77,13 +77,13 @@ const books = [
     title: "Onore ai diffidati",
     publisher: "Mondadori",
     year: "2008",
-    image: "/onore ai diffidati.jpg"
+    image: "/onore-ai-diffidati.jpg"
   },
   {
     title: "Olio burning",
     publisher: "Giulio Perrone Editore",
     year: "2006",
-    image: "/Olio burning Giulio Perrone Editore.jpg"
+    image: "/olio-burning.jpg"
   }
 ];
 

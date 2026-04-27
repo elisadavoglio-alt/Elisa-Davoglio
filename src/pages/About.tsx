@@ -62,7 +62,7 @@ export function About() {
                   transition={{ duration: 1.5, ease: "easeOut" }}
                   className="w-full h-full rounded-full bg-no-repeat"
                   style={{ 
-                    backgroundImage: 'url("/Davoglio2.jpg")',
+                    backgroundImage: 'url("/davoglio2.jpg")',
                     backgroundSize: '210%',
                     backgroundPosition: 'center 75%'
                   }}
