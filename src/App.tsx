@@ -11,7 +11,7 @@ import { CookiePolicy } from './pages/CookiePolicy';
 import { AnimatePresence } from 'motion/react';
 
 export default function App() {
-  const [activePage, setActivePage] = useState('about');
+  const [activePage, setActivePage] = useState('home');
 
   const renderPage = () => {
     switch (activePage) {
@@ -30,7 +30,7 @@ export default function App() {
       case 'cookie-policy':
         return <CookiePolicy key="cookie-policy" />;
       default:
-        return <About key="about" />;
+        return <Home key="home" setActivePage={setActivePage} />;
     }
   };
 

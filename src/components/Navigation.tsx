@@ -55,7 +55,7 @@ export function Navigation({ activePage, setActivePage }: NavigationProps) {
         </div>
         
         <div className="text-[11px] leading-relaxed opacity-40">
-          © 2026 ELISA DAVOGLIO<br/>MILAN / LONDON / GLOBAL
+          © 2026 ELISA DAVOGLIO<br/>REMOTE / ROME / MILAN / LONDON
         </div>
       </aside>
 
