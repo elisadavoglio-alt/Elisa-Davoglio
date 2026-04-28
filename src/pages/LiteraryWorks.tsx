@@ -20,7 +20,7 @@ const books = [
     title: "Nella città più fredda",
     publisher: "Tic Edizioni",
     year: "2021",
-    image: "/nella-citta-piu-fredda.webp"
+    image: "/nella-citta-piu-fredda.jpg"
   },
   {
     title: "Taco Bell",
@@ -45,13 +45,13 @@ const books = [
     title: "La lunga impazienza",
     publisher: "Arcipelago Itaca",
     year: "2013",
-    image: "/la-lunga-impazienza.webp"
+    image: "/la-lunga-impazienza.jpg"
   },
   {
     title: "EX.IT",
     publisher: "",
     year: "2013",
-    image: "/ex-it-2013-copertina.webp",
+    image: "/ex-it-2013-copertina.jpg",
     isAnthology: true
   },
   {
