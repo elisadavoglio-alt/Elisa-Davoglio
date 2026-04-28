@@ -14,7 +14,7 @@ const books = [
     title: "God_Mother-Book-Case",
     publisher: "Arcipelago Itaca",
     year: "2025",
-    image: "/god-mother-book-case-arcipelago-itaca.jpg"
+    image: "/god-mother.jpg"
   },
   {
     title: "Nella città più fredda",
