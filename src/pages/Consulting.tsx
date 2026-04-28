@@ -23,7 +23,7 @@ export function Consulting() {
               className="w-16 h-1 bg-natural-gold mb-8"
             />
             <h1 className="font-serif text-5xl sm:text-7xl text-natural-dark mb-10 leading-[1.1] uppercase tracking-tighter flex flex-col gap-2">
-              <span className="opacity-90">Enterprise Digital</span>
+              <span className="opacity-90">Enterprise <span className="text-accent">Digital</span></span>
               <div className="flex items-baseline flex-wrap">
                 <span>C</span>
                 <span className="inline-block scale-y-75 origin-bottom font-medium -ml-[0.02em]">O</span>

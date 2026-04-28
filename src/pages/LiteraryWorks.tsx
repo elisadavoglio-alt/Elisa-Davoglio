@@ -14,7 +14,7 @@ const books = [
     title: "God_Mother-Book-Case",
     publisher: "Arcipelago Itaca",
     year: "2025",
-    image: "/god-mother-book-case-arcipelago-itaca.jpg"
+    image: "/god-mother-book-case arcipelago itaca.jpg"
   },
   {
     title: "Nella città più fredda",
@@ -145,7 +145,7 @@ export function LiteraryWorks() {
               <span className="inline-block scale-y-[1.15] origin-bottom -ml-[0.02em]">L</span>
               <span className="inline-block text-[0.8em] -translate-y-1">I</span>
               <span>C</span>
-              <span className="inline-block -rotate-6 font-light italic -ml-[0.02em] -mr-[0.02em]">A</span>
+              <span className="inline-block -rotate-6 font-light italic -ml-[0.02em] -mr-[0.02em] text-accent">A</span>
               <span>T</span>
               <span className="inline-block -translate-y-2 opacity-80 -ml-[0.02em]">I</span>
               <span className="inline-block rotate-3 -ml-[0.02em]">O</span>
