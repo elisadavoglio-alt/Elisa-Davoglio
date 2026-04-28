@@ -28,9 +28,9 @@ export function Navigation({ activePage, setActivePage }: NavigationProps) {
             className="text-left w-full mb-1 group"
           >
             <div className="font-serif text-3xl font-bold">E.D.</div>
-            <div className="text-[12px] italic opacity-70 mt-3 border-l-2 border-natural-border pl-3 group-hover:border-natural-gold transition-colors duration-300">
+            <div className="text-sm italic font-medium opacity-100 text-zinc-800 mt-4 border-l-2 border-accent pl-3 group-hover:border-natural-gold transition-colors duration-300 leading-relaxed shadow-sm py-1">
               "The pursuit of life by means other than life."<br/>
-              <span className="text-[9px] uppercase tracking-widest not-italic opacity-60 block mt-2">— Bernard Stiegler</span>
+              <span className="text-xs uppercase tracking-widest font-semibold not-italic opacity-100 block mt-2 text-accent">— Bernard Stiegler</span>
             </div>
           </button>
           
@@ -64,11 +64,11 @@ export function Navigation({ activePage, setActivePage }: NavigationProps) {
         <div className="px-6 h-20 flex items-center justify-between">
           <button 
             onClick={() => setActivePage('home')}
-            className="flex flex-col text-left max-w-[220px] sm:max-w-none"
+            className="flex flex-col text-left max-w-[280px] sm:max-w-none"
           >
             <div className="font-serif text-2xl font-bold leading-none mb-1 mt-1">E.D.</div>
-            <div className="text-[10px] italic font-serif leading-tight opacity-70 text-zinc-600">
-              "The pursuit of life by means other than life." — B. Stiegler
+            <div className="text-xs italic font-serif font-medium leading-tight opacity-100 text-zinc-900 border-l border-accent pl-2">
+              "The pursuit of life by means other than life." <span className="not-italic font-sans text-[10px] tracking-wider text-accent font-semibold ml-1 block mt-1">— B. Stiegler</span>
             </div>
           </button>
           

@@ -44,7 +44,7 @@ export function Home({ setActivePage }: { setActivePage: (page: string) => void;
               className="absolute -left-8 lg:-left-20 top-16 bottom-16 w-1 bg-gradient-to-b from-accent via-accent/50 to-transparent origin-top"
             />
             
-            <h1 className="font-serif text-6xl sm:text-7xl lg:text-8xl xl:text-9xl tracking-tighter leading-[0.9] text-natural-dark mb-8 flex flex-col uppercase">
+            <h1 className="font-serif text-3xl sm:text-4xl lg:text-5xl xl:text-6xl tracking-tighter leading-[0.9] text-natural-dark mb-8 flex flex-col uppercase">
               <motion.div 
                 initial={{ opacity: 0, y: 20 }}
                 animate={{ opacity: 1, y: 0 }}
