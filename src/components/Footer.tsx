@@ -26,6 +26,7 @@ export function Footer({ setActivePage }: FooterProps) {
           >
             Cookie Policy
           </button>
+          <span className="cursor-default">Credits</span>
         </div>
       </div>
     </footer>
