@@ -11,16 +11,16 @@ const books = [
     isAnthology: true
   },
   {
-    title: "God_Mother-Book-Case",
+    title: "God-Mother-Book-Case",
     publisher: "Arcipelago Itaca",
     year: "2025",
-    image: "/god-mother.jpg"
+    image: "/god-mother-book-case arcipelago itaca.jpg"
   },
   {
     title: "Nella città più fredda",
     publisher: "Tic Edizioni",
     year: "2021",
-    image: "/nella-citta-piu-fredda.jpg"
+    image: "/nella-citta-piu-fredda.webp"
   },
   {
     title: "Taco Bell",
@@ -45,13 +45,13 @@ const books = [
     title: "La lunga impazienza",
     publisher: "Arcipelago Itaca",
     year: "2013",
-    image: "/la-lunga-impazienza.jpg"
+    image: "/la-lunga-impazienza.webp"
   },
   {
     title: "EX.IT",
     publisher: "",
     year: "2013",
-    image: "/ex-it-2013-copertina.jpg",
+    image: "/ex-it-2013-copertina.webp",
     isAnthology: true
   },
   {
