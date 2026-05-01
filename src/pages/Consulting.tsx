@@ -38,7 +38,7 @@ export function Consulting() {
               </div>
             </h1>
             <p className="text-xl sm:text-2xl text-zinc-600 leading-relaxed font-serif italic border-l-2 border-natural-gold pl-6">
-              For over 15 years, I have orchestrated the end-to-end delivery of complex WordPress and CMS ecosystems for enterprise clients. I align engineering, design, and QA to translate business goals into scalable digital products.
+              As a Senior Digital PM with over 15 years of experience, I orchestrate the end-to-end delivery of complex digital ecosystems. Today, my leadership extends into the frontier of Agentic AI and Cyber-Resilience, aligning engineering, design, and security to translate business goals into scalable, deeply human products.
             </p>
           </div>
           
