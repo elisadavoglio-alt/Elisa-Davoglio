@@ -203,6 +203,10 @@ export function Consulting() {
           <h2 className="text-xs tracking-[0.2em] uppercase text-natural-gold/70 mb-16">Certifications & Clearances</h2>
           <div className="flex flex-col gap-8 max-w-4xl mx-auto">
             <div className="bg-white/5 border border-natural-border-light p-8 hover:bg-white/10 transition-colors">
+              <h4 className="font-serif text-xl sm:text-2xl text-zinc-200">Ready Tensor: RAG Systems Expert</h4>
+              <p className="text-sm tracking-widest uppercase text-zinc-500 mt-3">Advanced Retrieval Augmented Generation</p>
+            </div>
+            <div className="bg-white/5 border border-natural-border-light p-8 hover:bg-white/10 transition-colors">
               <h4 className="font-serif text-xl sm:text-2xl text-zinc-200">Google Cybersecurity Professional Certificate</h4>
             </div>
             <div className="bg-white/5 border border-natural-border-light p-8 hover:bg-white/10 transition-colors">
